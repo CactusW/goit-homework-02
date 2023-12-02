@@ -22,7 +22,7 @@ body {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px; /* 116.667% */
+  line-height: 21px;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   line-height: 1.17;
@@ -35,7 +35,7 @@ body {
   font-style: normal;
 }
 
-.top-line-nav {
+.line-nav {
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: 'Roboto';
   font-size: 16px;
@@ -44,8 +44,8 @@ body {
   letter-spacing: 0.32px;
 }
 
-.top-line-nav:hover,
-.top-line-nav:focus {
+.line-nav:hover,
+.line-nav:focus {
   color: #404bbf;
 }
 
