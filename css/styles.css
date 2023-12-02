@@ -1,4 +1,4 @@
-body {
+.body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -274,7 +274,7 @@ h3 {
   flex-direction: column;
   justify-content: center;
   color: var(--IRIS, #4d5ae5);
-  font-family: Raleway;
+  font-family: 'Raleway';
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
