@@ -1,26 +1,27 @@
 body {
   font-family: 'Roboto', sans-serif;
-  font-family: 'Raleway', sans-serif;
-  background-color: #ffffff;
   color: #434455;
+  background-color: #ffffff;
 }
 
 .logo {
   width: 44px;
-  color: var(--IRIS, #4d5ae5);
-  font-family: 'Raleway', sans-serif, font-size 18px;
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.54px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   line-height: 1.17;
 }
 
 .span-logo {
   width: 71px;
-  color: var(--NAVY-BLUE, #2e2f42);
-  font-family: 'Raleway', sans-serif, font-size 18px;
+  color: #2e2f42;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 21px; /* 116.667% */
@@ -39,7 +40,7 @@ body {
 
 .top-line-nav {
   color: var(--NAVY-BLUE, #2e2f42);
-  font-family: Roboto;
+  font-family: 'Roboto';
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
@@ -53,7 +54,7 @@ body {
 
 .contacts {
   color: var(--SLATE, #434455);
-  font-family: Roboto;
+  font-family: 'Roboto';
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
@@ -73,7 +74,7 @@ h1 {
   color: var(--WHITE, #fff);
   text-align: center;
   /* Header 1 */
-  font-family: Roboto;
+  font-family: 'Roboto';
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
