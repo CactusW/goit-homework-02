@@ -71,7 +71,7 @@ body {
   background: var(--NAVY-BLUE, #2e2f42);
 }
 
-h1 {
+.dark-bg-title {
   width: 496px;
   color: var(--WHITE, #fff);
   text-align: center;
@@ -82,6 +82,7 @@ h1 {
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
+  line-height: 1.07;
 }
 
 button.button {
@@ -101,11 +102,11 @@ button.button {
 }
 
 button.button:hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 button.button:focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .section-feature {
   width: 1128px;
@@ -295,22 +296,22 @@ h3 {
   flex-direction: column;
   justify-content: center;
   color: var(--IRIS, #4d5ae5);
-  font-family: 'Raleway';
+  font-family: 'Raleway' sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
 
 .span-logo-footer {
   color: #f4f4fd;
-  font-family: 'Raleway';
+  font-family: 'Raleway' sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 21px; /* 116.667% */
+  line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
