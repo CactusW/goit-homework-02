@@ -101,11 +101,11 @@ button.button {
 }
 
 button.button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 button.button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .section-feature {
   width: 1128px;
