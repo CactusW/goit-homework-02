@@ -78,10 +78,8 @@ body {
   width: 496px;
   color: var(--WHITE, #fff);
   text-align: center;
-  /* Header 1 */
   font-family: 'Roboto';
   font-size: 56px;
-  font-style: normal;
   font-weight: 700;
   line-height: 60px;
   letter-spacing: 1.12px;
