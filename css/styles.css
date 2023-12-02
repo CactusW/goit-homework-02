@@ -5,7 +5,6 @@ body {
 }
 
 .logo {
-  width: 44px;
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -18,7 +17,6 @@ body {
 }
 
 .span-logo {
-  width: 71px;
   color: #2e2f42;
   font-family: 'Raleway', sans-serif;
   font-size: 18px;
@@ -68,14 +66,12 @@ body {
   color: #404bbf;
 }
 .dark-bg {
-  width: 1440px;
   height: 600px;
   flex-shrink: 0;
   background: var(--NAVY-BLUE, #2e2f42);
 }
 
 .dark-bg-title {
-  width: 496px;
   color: var(--WHITE, #fff);
   text-align: center;
   font-family: 'Roboto';
@@ -87,10 +83,6 @@ body {
 }
 
 .button-s {
-  display: inline-flex;
-  align-items: flex-start;
-  gap: 10px;
-  border-radius: 4px;
   background: var(--IRIS, #4d5ae5);
   box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   cursor: pointer;
@@ -110,16 +102,9 @@ body {
   background-color: #404bbf;
 }
 .section-feature {
-  width: 1128px;
-  height: 104px;
-  flex-shrink: 0;
-  display: inline-flex;
-  align-items: flex-start;
-  gap: 40px;
 }
 
 h3 {
-  width: 264px;
   color: var(--NAVY-BLUE, #2e2f42);
   /* Header 3 */
   font-family: Roboto;
@@ -131,15 +116,9 @@ h3 {
 }
 
 .feature {
-  display: flex;
-  width: 264px;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 8px;
 }
 
 .name-feature {
-  width: 264px;
   color: var(--NAVY-BLUE, #2e2f42);
   font-family: Roboto;
   font-size: 20px;
@@ -150,7 +129,6 @@ h3 {
 }
 
 .content-feature {
-  width: 264px;
   color: var(--SLATE, #434455);
   font-family: Roboto;
   font-size: 16px;
@@ -161,15 +139,12 @@ h3 {
 }
 /* Team Section */
 .light-bg {
-  width: 1440px;
-  height: 732px;
-  flex-shrink: 0;
   background: var(--CLOUD, #f4f4fd);
 }
 
 .team {
   color: var(--NAVY-BLUE, #2e2f42);
-  text-align: center;
+
   font-family: Roboto;
   font-size: 36px;
   font-style: normal;
@@ -181,13 +156,6 @@ h3 {
 }
 
 .team-card {
-  display: inline-flex;
-  padding-bottom: 32px;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  gap: 32px;
-  border-radius: 0px 0px 4px 4px;
   background: var(--WHITE, #fff);
   box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
     0px 1px 1px 0px rgba(46, 47, 66, 0.16),
@@ -196,7 +164,7 @@ h3 {
 
 .team-name {
   color: var(--NAVY-BLUE, #2e2f42);
-  text-align: center;
+
   font-family: Roboto;
   font-size: 20px;
   font-style: normal;
@@ -207,7 +175,7 @@ h3 {
 
 .team-job {
   color: var(--SLATE, #434455);
-  text-align: center;
+
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -217,14 +185,11 @@ h3 {
 }
 /* Portfolio */
 .portfolio {
-  width: 1128px;
-  height: 1000px;
-  flex-shrink: 0;
 }
 
 .portfolio-title {
   color: var(--NAVY-BLUE, #2e2f42);
-  text-align: center;
+
   font-family: Roboto;
   font-size: 36px;
   font-style: normal;
@@ -235,13 +200,6 @@ h3 {
 }
 
 .project-card {
-  display: flex;
-  width: 360px;
-  height: 420px;
-  padding-bottom: 32px;
-  flex-direction: column;
-  align-items: flex-start;
-  gap: 32px;
   flex-shrink: 0;
   border: 1px solid var(--CORNFLOWER, #e7e9fc);
   background: var(--WHITE, #fff);
@@ -270,7 +228,6 @@ h3 {
 /* Footer */
 
 .footer-text {
-  width: 264px;
   color: #f4f4fd;
   font-family: 'Roboto';
   font-size: 16px;
@@ -282,8 +239,6 @@ h3 {
 }
 
 .dark-bgg {
-  width: 1440px;
-  height: 312px;
   flex-shrink: 0;
   background: var(--NAVY-BLUE, #2e2f42);
   font-family: 'Raleway', sans-serif;
@@ -291,10 +246,6 @@ h3 {
 }
 
 .logo-footer {
-  display: flex;
-  width: 44px;
-  height: 21px;
-  flex-direction: column;
   justify-content: center;
   color: var(--IRIS, #4d5ae5);
   font-family: 'Raleway' sans-serif;
