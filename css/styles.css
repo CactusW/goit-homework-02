@@ -31,8 +31,6 @@ body {
   font-style: normal;
 }
 .adress-list {
-  display: inline-flex;
-  align-items: flex-start;
   color: var(--NAVY-BLUE, #2e2f42);
   font-style: normal;
 }
@@ -65,7 +63,6 @@ body {
   color: #404bbf;
 }
 .dark-bg {
-  height: 600px;
   flex-shrink: 0;
   background: var(--NAVY-BLUE, #2e2f42);
 }
