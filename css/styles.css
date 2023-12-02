@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -101,12 +101,11 @@ button.button {
 }
 
 button.button:hover {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 
 button.button:focus {
-  background-color: #404bbf;
-  color: #ffffff;
+  color: #404bbf;
 }
 .section-feature {
   width: 1128px;
