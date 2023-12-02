@@ -215,6 +215,12 @@ h3 {
 }
 /* Portfolio */
 .portfolio {
+  width: 1128px;
+  height: 1000px;
+  flex-shrink: 0;
+}
+
+.portfolio-title {
   color: var(--NAVY-BLUE, #2e2f42);
   text-align: center;
   font-family: Roboto;
