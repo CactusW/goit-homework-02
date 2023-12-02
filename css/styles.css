@@ -175,6 +175,7 @@ h3 {
   line-height: 40px;
   letter-spacing: 0.72px;
   text-transform: capitalize;
+  line-height: 1.11;
 }
 
 .team-card {
